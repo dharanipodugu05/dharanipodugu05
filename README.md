@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Dharani Podugu
 
-<!--
-**dharanipodugu05/dharanipodugu05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s student in Computer Science (Graduating Dec 2025)  
+🌱 Learning Cloud Computing, AI, and Full Stack Development  
+💼 Seeking roles in Software Development / Cloud / Data  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python | SQL | OOP | DBMS  
+- Microsoft Azure | Blob Storage | Static Web Hosting  
+- Power BI | Git | GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Project
+### 🌐 Azure Static Website Deployment  
+[🔗 Live Site](https://dharanicloudsite123.z13.web.core.windows.net) | [📁 Source Code](https://github.com/dharanipodugu05/dharu_portfolio)  
+Deployed a static HTML website using Azure Blob Storage. First cloud-based project to demonstrate hosting skills.
+
+---
+
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/dharanipodugu05/)
+
