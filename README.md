@@ -5,7 +5,7 @@
 💼 Seeking roles in Software Development / Cloud / Data  
 
 ## 🔧 Skills
-- Python | SQL | OOP | DBMS  
+- Python | SQL | DSA | OOPS | DBMS
 - Microsoft Azure | Blob Storage | Static Web Hosting  
 - Power BI | Git | GitHub  
 
