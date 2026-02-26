@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Dharani Podugu
 
-🎓 Master’s student in Computer Science (Graduating Dec 2025)  
+🎓 Master’s student in Computer Science (Graduated Dec 2025)  
 🌱 Learning Cloud Computing, AI, and Full Stack Development  
-💼 Seeking roles in Software Development / Cloud / Data  
+💼 Seeking roles in Data Enginner and Data Analyst roles
 
 ## 🔧 Skills
-- Python | SQL | DSA | OOPS | DBMS
+- Python | sql |
 - Microsoft Azure | Blob Storage | Static Web Hosting  
 - Power BI | Git | GitHub  
 
