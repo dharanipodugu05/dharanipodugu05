@@ -44,5 +44,5 @@ Git • GitHub • Postman • JIRA • Linux
 
 LinkedIn: www.linkedin.com/in/dharani-podugu
 
-Email: dharani.podugu01@gmail.com
+Email: dharanipodugu07@gmail.com
 
