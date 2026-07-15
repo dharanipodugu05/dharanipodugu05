@@ -1,48 +1,111 @@
-# Hi, I'm Dharani Podugu 👋
+# Hi there 👋 I'm Dharani Podugu
 
-## Full Stack Developer | Java | Spring Boot | Node.js | React | Python
+## Full Stack Developer | Java • Spring Boot • React • Node.js • Python
 
-I'm a Software Engineer and Master's graduate in Computer Science focused on building scalable web applications, REST APIs, microservices, and cloud-native solutions.
+I'm a Full Stack Developer with **4+ years of experience** building scalable web applications, REST APIs, and enterprise solutions across **FinTech, E-Commerce, and Enterprise SaaS**.
 
-### About Me
+🎓 **Master of Science in Computer Science**  
+University of Central Missouri (2024–2025)
 
-- Full Stack Developer with experience in FinTech, E-Commerce, and SaaS applications
-- Experienced with Java Spring Boot, Node.js, React.js, and Python
-- Built applications serving 60,000+ daily active users
-- Improved API performance by up to 85% using caching and optimization techniques
-- Interested in Backend Engineering, Cloud Computing, and Distributed Systems
+📍 Kansas, USA
 
-### Tech Stack
+---
 
-#### Languages
-Java • Python • JavaScript • SQL
+## 🚀 About Me
 
-#### Backend
-Spring Boot • Node.js • Express.js • FastAPI • Flask
+- 💻 Full Stack Developer with 4+ years of experience
+- ⚡ Experienced in Java, Spring Boot, React, Node.js, and Python
+- 🔐 Built secure REST APIs using OAuth2 and JWT
+- 🏗 Passionate about Microservices and System Design
+- 🐳 Experienced with Docker, CI/CD, Redis, and Kafka
+- 🌱 Currently learning Kubernetes and AWS
 
-#### Frontend
-React.js • AngularJS • HTML5 • CSS3 • Bootstrap
+---
 
-#### Databases
-PostgreSQL • MySQL • Redis • MongoDB
+## 💻 Tech Stack
 
-#### Cloud & DevOps
-AWS • Docker • Kubernetes • Jenkins • CI/CD
+### Languages
+- Java
+- JavaScript (ES6+)
+- Python
+- SQL
 
-#### Tools
-Git • GitHub • Postman • JIRA • Linux
+### Frontend
+- React
+- AngularJS
+- HTML5
+- CSS3
+- Bootstrap
 
-### Current Focus
+### Backend
+- Spring Boot
+- Spring MVC
+- Node.js
+- Express.js
+- FastAPI
+- Flask
 
-- Backend Development
-- Cloud Computing
-- Microservices Architecture
-- System Design
+### Databases
+- MySQL
+- PostgreSQL
+- Redis
+- MongoDB (Exposure)
+
+### DevOps
+- Docker
+- Kubernetes (Exposure)
+- Jenkins
+- GitHub Actions
+- Git
+- Linux
+
+### Architecture
+- REST APIs
+- Microservices
+- OAuth2
+- JWT
+- Kafka
+- RabbitMQ
+
+---
+
+# 📌 Featured Projects
+
+## 🏦 Banking Microservices Platform
+Enterprise banking application built using Spring Boot, React, Kafka, Redis, Docker, JWT Authentication, and Microservices.
+
+## 🛒 Enterprise E-Commerce Platform
+Node.js + React application featuring authentication, product catalog, shopping cart, Redis caching, RabbitMQ messaging, and PostgreSQL.
+
+## 📋 Task Management SaaS
+Project management application built with Spring Boot and React using secure authentication and REST APIs.
+
+## 🔐 Authentication Server
+Standalone OAuth2 + JWT authentication server using Spring Security.
+
+## 🐍 Python Data Pipeline
+FastAPI-based ETL pipeline for automated enterprise data processing.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced System Design
+- Kubernetes
+- AWS Cloud
 - Distributed Systems
+- Performance Optimization
 
-### Connect With Me
+---
 
-LinkedIn: www.linkedin.com/in/dharani-podugu
+## 📫 Connect With Me
 
-Email: dharanipodugu07@gmail.com
+📧 Email: dharani.podugu01@gmail.com
 
+💼 LinkedIn: https://linkedin.com/in/dharani-podugu
+
+🐙 GitHub: https://github.com/dharanipodugu05
+
+---
+
+⭐ Thanks for visiting my profile!
